@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "7ccdbc61603a107a142b907fb4744e11766a2ff0"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "learnsolr/1.0.0": {
+        "dependencies": {
+          "SolrNet": "0.9.1"
+        },
+        "runtime": {
+          "learnsolr.dll": {}
+        }
+      },
+      "CommonServiceLocator/2.0.1": {
+        "runtime": {
+          "lib/netcoreapp1.0/CommonServiceLocator.dll": {}
+        }
+      },
+      "SolrNet/0.9.1": {
+        "dependencies": {
+          "CommonServiceLocator": "2.0.1",
+          "SolrNet.Core": "0.9.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/CommonServiceLocator.SolrNet.dll": {}
+        }
+      },
+      "SolrNet.Core/0.9.1": {
+        "runtime": {
+          "lib/netstandard2.0/SolrNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "learnsolr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommonServiceLocator/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FVSTkmJ5YR+vsHm13Uk8Xe2ZRJso49DVJgaF5Dw21+va+Merip87d/Bl/jPXrtFFEbuN7e0Dxb9qQz9UQCoSWg==",
+      "path": "commonservicelocator/2.0.1",
+      "hashPath": "commonservicelocator.2.0.1.nupkg.sha512"
+    },
+    "SolrNet/0.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z8bqFYPrltkH7jsQ8iVHCnGVAujGeVNKA7qac5wnAYMm11crL2HtuDp26gs98k2z+reIc8twxNSL3x8Um49kyA==",
+      "path": "solrnet/0.9.1",
+      "hashPath": "solrnet.0.9.1.nupkg.sha512"
+    },
+    "SolrNet.Core/0.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3AxmNMF6r2u0WCpv3m4i8CmuBGGSLP/W5n/vvEzrAMN59sq5pYOkpuY3H4FN1xYaezBaTnc5D4e/DY7F95q0Fw==",
+      "path": "solrnet.core/0.9.1",
+      "hashPath": "solrnet.core.0.9.1.nupkg.sha512"
+    }
+  }
+}

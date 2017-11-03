@@ -1,0 +1,10 @@
+c:\Users\Adhir\Documents\projects\learnsolr\bin\Debug\netcoreapp2.0\learnsolr.deps.json
+c:\Users\Adhir\Documents\projects\learnsolr\bin\Debug\netcoreapp2.0\learnsolr.runtimeconfig.json
+c:\Users\Adhir\Documents\projects\learnsolr\bin\Debug\netcoreapp2.0\learnsolr.runtimeconfig.dev.json
+c:\Users\Adhir\Documents\projects\learnsolr\bin\Debug\netcoreapp2.0\learnsolr.dll
+c:\Users\Adhir\Documents\projects\learnsolr\bin\Debug\netcoreapp2.0\learnsolr.pdb
+c:\Users\Adhir\Documents\projects\learnsolr\obj\Debug\netcoreapp2.0\learnsolr.csproj.CoreCompileInputs.cache
+c:\Users\Adhir\Documents\projects\learnsolr\obj\Debug\netcoreapp2.0\learnsolr.AssemblyInfoInputs.cache
+c:\Users\Adhir\Documents\projects\learnsolr\obj\Debug\netcoreapp2.0\learnsolr.AssemblyInfo.cs
+c:\Users\Adhir\Documents\projects\learnsolr\obj\Debug\netcoreapp2.0\learnsolr.dll
+c:\Users\Adhir\Documents\projects\learnsolr\obj\Debug\netcoreapp2.0\learnsolr.pdb
